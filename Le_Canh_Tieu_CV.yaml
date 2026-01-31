@@ -1,10 +1,12 @@
 cv:
-  name: LE CANH TIEU
+  name: LÊ CẢNH TIÊU
   email: letieu8@gmail.com
   phone: "+84 335581402"
   location: Vietnam
   social_networks:
     - network: GitHub
+      username: letieu
+    - network: LinkedIn
       username: letieu
   
   sections:
